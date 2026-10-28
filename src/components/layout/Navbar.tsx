@@ -44,7 +44,7 @@ export default function Navbar() {
             </div>
             <div>
               <div className="font-bold text-lg leading-tight tracking-wide">BhoomiMitra</div>
-              <div className="text-xs text-blue-200 leading-tight hidden sm:block">AI-Powered Land Record Portal</div>
+              <div className="text-xs text-blue-200 leading-tight hidden sm:block">Land Record Portal</div>
             </div>
           </Link>
 
